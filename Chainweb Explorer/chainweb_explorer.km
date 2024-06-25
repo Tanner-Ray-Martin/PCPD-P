@@ -1,0 +1,98 @@
+{
+    "root": {
+        "data": {
+            "id": "d2971x5owvk0",
+            "created": 1719328404751,
+            "text": "Chainweb Explorer"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d29726mdlg80",
+                    "created": 1719328425351,
+                    "text": "Live Data",
+                    "layout_mind_offset": {
+                        "x": -110,
+                        "y": -145
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d2972kabqew0",
+                    "created": 1719328455097,
+                    "text": "Charts",
+                    "layout_mind_offset": {
+                        "x": -72,
+                        "y": 131
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d2974667xqw0",
+                    "created": 1719328581102,
+                    "text": "Chains",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2972q96bpc0",
+                            "created": 1719328468088,
+                            "text": "Blocks"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d2973936a7k0",
+                                    "created": 1719328509084,
+                                    "text": "Transactions"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d2973lxer0o0",
+                                            "created": 1719328537034,
+                                            "text": "Payload"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d2973qpiyg80",
+                                            "created": 1719328547441,
+                                            "text": "Status"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d2973dvg9kw0",
+                                    "created": 1719328519501,
+                                    "text": "Hashes"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d2973xzq55s0",
+                            "created": 1719328563295,
+                            "text": "Neighbors"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

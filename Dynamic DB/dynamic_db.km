@@ -1,0 +1,146 @@
+{
+    "root": {
+        "data": {
+            "id": "d296uid67o00",
+            "created": 1719327824002,
+            "text": "Dynamic DB Generator"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d296uycsx3c0",
+                    "created": 1719327858808,
+                    "text": "DB Templates",
+                    "layout_mind_offset": {
+                        "x": -17,
+                        "y": -8
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d296wb5k1uo0",
+                            "created": 1719327965032,
+                            "text": "XLSX"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d296whb1aw00",
+                            "created": 1719327978424,
+                            "text": "Forms"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d296wric54g0",
+                            "created": 1719328000634,
+                            "text": "Json"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d296wwd9rtc0",
+                            "created": 1719328011211,
+                            "text": "CSV",
+                            "layout_right_offset": {
+                                "x": 23,
+                                "y": 5
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d296vbbwjyw0",
+                    "created": 1719327887052,
+                    "text": "CRUD",
+                    "layout_mind_offset": {
+                        "x": 17,
+                        "y": 74
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d296xbdu02o0",
+                            "created": 1719328043897,
+                            "text": "ORM"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d296xevzjoo0",
+                            "created": 1719328051525,
+                            "text": "Auto Generated Schemas"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d296xqp1js80",
+                                    "created": 1719328077227,
+                                    "text": "Generated DB"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d296xxjm1hc0",
+                                    "created": 1719328092136,
+                                    "text": "Generated UI"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d296viknf0o0",
+                    "created": 1719327902818,
+                    "text": "User MGMT",
+                    "layout_mind_offset": {
+                        "x": 0,
+                        "y": -103
+                    }
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "d2970faqf7k0",
+                    "created": 1719328287509,
+                    "text": "Reporting"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d2970kjz2oo0",
+                            "created": 1719328298952,
+                            "text": "Charts"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "d2970plz3000",
+                            "created": 1719328309957,
+                            "text": "Exports"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
