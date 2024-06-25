@@ -1,8 +1,3 @@
-
-
-### README.md File Content
-
-```markdown
 # Dynamic Database Generator Project
 
 This project is a dynamic database generator built using SQLAlchemy, Pydantic, FastAPI, PySide6, Streamlit, and HTML. The folder structure is organized to separate the backend and frontend components effectively.
@@ -122,4 +117,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
